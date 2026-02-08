@@ -1,0 +1,7 @@
+{
+  "name": "MacroBeast Tracker",
+  "description": "A high-performance macro tracking application with AI-powered food recognition, meal planning, and detailed progress analytics. Features a striking Red/Black aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
